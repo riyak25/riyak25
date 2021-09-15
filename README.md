@@ -17,7 +17,7 @@ I'm [Riya], a passionate programmer, freelancer and a dancer.
 <br>
 ###  Let's Talk about Me
 - Frontend Development - **HTML5, CSS3, Javascript, Bootstrap.**
-- Languages which I know - **C, C++, Java.**
+- Languages which I know - **Java, C, C++.**
 - Skills - **Data Structures, OOP, Machine Learning.**
 - I’m currently learning **Cloud Computing, Backend Web Development.**
 - Hobbies - **Dancing.**
